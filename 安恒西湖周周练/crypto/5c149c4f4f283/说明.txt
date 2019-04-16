@@ -1,0 +1,24 @@
+李磊是一名程序员，在他的笔记本里有一些这样的记录：
+QQ:iloveyou521
+blog:blog132
+wechat:wechat190
+
+看着应该像是密码，于是尝试去登录，发现密码错误
+后来一打听，原来他将这些密码经过自己写的一个简单的加密算法变成真实的密码，而自己笔记本中存放的只是一些虚假的密码，只是方便记忆而已
+
+其真实密码如下：
+QQ:+p)g$_)'521
+blog:hp)u132
+wechat:A$ezr&190
+
+hint:Caesar
+
+flag is spru.r5sf3h7660h7394e169699hffe0s0h$4,
+
+flag is flag{a5f.3b7660b7394c169699b..c0f0be4}
+
+flag{a5fd3b7660b7394c169699bddc0f0be4}
+
+f -- d
+
+Please restore the real flag
